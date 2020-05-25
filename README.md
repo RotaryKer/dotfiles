@@ -1,1 +1,5 @@
-# dotfiles
+# dotfiles repo
+
+# Environment
+## Neovim
+
