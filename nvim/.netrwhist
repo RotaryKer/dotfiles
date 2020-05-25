@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =1
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/Users/raven/Code/python/sample'
 let g:netrw_dirhist_1='/Users/raven/Project/htdocs'
 let g:netrw_dirhist_0='/Users/raven/Code/OS/docker'
 let g:netrw_dirhist_9='/Users/raven/Code/OS'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_6='/Users/raven/work'
 let g:netrw_dirhist_5='/Users/raven/univ'
 let g:netrw_dirhist_4='/Users/raven/.zprezto'
 let g:netrw_dirhist_3='/Users/raven/Code/c++/SystemC/TMEIC'
-let g:netrw_dirhist_2='/Users/raven/Applications'

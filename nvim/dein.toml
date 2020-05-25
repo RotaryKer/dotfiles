@@ -1,0 +1,20 @@
+[[plugins]]
+repo = 'Shougo/dein.vim'
+
+repo = 'itchyny/lightline.vim'
+hook_add = '''
+    let g:lightline = {'colorscheme': 'wombat'}
+'''
+
+# LSP
+[[plugins]]
+repo = 'autozimu/LanguageClient-neovim'
+rev = 'next'
+build = 'bash install.sh'
+hook_add = '''
+source ~/.config/nvim/plugins/LanguageClient-neovim.rc.vim
+'''
+
+# Tree
+[[plugins]]
+repo = 'preservim/nerdtree'
