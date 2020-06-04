@@ -1,5 +1,5 @@
 # set coding environment with neovim
-echo export XDC_CONFIG_HOME=~/dotfiles >> ~/.zshrc
+echo export XDC_CONFIG_HOME=$HOME/dotfiles >> ~/.zshrc
 source ~/.zshrc
 mkdir -p ~/.cache/dein
 curl https://raw.githubusercontent.com/Shougo/dein.vim/master/bin/installer.sh > installer.sh
