@@ -43,7 +43,7 @@ export PATH=$PATH:/Users/raven/Library/Python/3.7/bin/
 typeset -gU cdpath fpath mailpath path
 #set the Golang Path
 export GOROOT=/usr/local/opt/go/libexec 
-export GOPATH=$HOME/Code/golang
+export GOPATH=$HOME/Development/Software
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
 # Set the list of directories that cd searches.
 # cdpath=(
